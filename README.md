@@ -21,7 +21,7 @@ To use Cocomp, follow these steps:
 1. **Clone the Repository**: Download the Cocomp source code from the repository.
    
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/mdriyadkhan585/cocomp.git
    ```
 
 2. **Compile the Code**: Use a C compiler to build the project. For example, with `gcc`:
