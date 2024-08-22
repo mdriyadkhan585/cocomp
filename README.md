@@ -1,6 +1,6 @@
 # cocomp
 ---
-# cocomp in python
+# ** COCOMP: **[In python](https://github.com/mdriyadkhan585/cocomp_python)
 --
 # Cocomp Documentation
 ---
